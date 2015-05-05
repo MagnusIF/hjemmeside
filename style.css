@@ -6,7 +6,7 @@
 }
 
 body {
-	background-color: #81C784;
+	background-color: #eee;
 	color:black;
 	font-family:'RobotoDraft', sans-serif;
 }
@@ -15,7 +15,7 @@ header{
 	position:fixed;
 	width:100%;
 	height:128px;
-	background:#4CAF50;
+	background:#B9F6CA;
 	padding-left: 16px;
 	box-shadow: rgba(0, 0, 0, 0.458824) 0px 4px 7px;
 	z-index:5;
